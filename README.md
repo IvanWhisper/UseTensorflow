@@ -8,3 +8,4 @@ learning from https://www.bilibili.com/video/av16001891/?p=24
 编辑IDE：PyCharm
 深度学习框架：Tensorflow
 
+注：视频中一些已经错误代码以及过时代码已经矫正
